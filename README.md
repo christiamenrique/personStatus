@@ -8,10 +8,10 @@
 * Orange mean status still pending.
 
 # Install
-Open terminal.
-git clone https://github.com/christiamenrique/personStatus.git.
-Once is clone node.js is required to operate the page. You must use npm install.
-To start the application run React app using npm run start.
+* Open terminal.
+* git clone https://github.com/christiamenrique/personStatus.git.
+* Once is clone node.js is required to operate the page. You must use npm install.
+* To start the application run React app using npm run start.
 
 # Demo
 
